@@ -1,0 +1,21 @@
+.box{
+    border: 2px solid red;
+    width: 30%;
+}
+
+
+div{
+    border: 2px solid red;
+    margin: 10px; 
+}
+button{
+    border: 2px solid red;
+    margin: 5px;
+}
+a{
+    border: 2px solid red;
+    margin: 5px;
+}
+ul{
+    margin-left: -42px;
+}
